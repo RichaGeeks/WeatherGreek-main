@@ -1,4 +1,4 @@
-<h2>⚡ Weather Greek — Hackathon Finalist (🏆 3rd Place)</h2>
+<h2>⚡ Weather Greek — Hackathon Winner (🏆 3rd Place)</h2>
 
 A mythical weather tracking dashboard inspired by the world of Greek gods. **Weather Greek** is a frontend-only project built with React, designed during a hackathon and secured **3rd place** among top innovative solutions.
 

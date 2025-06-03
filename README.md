@@ -71,10 +71,10 @@ Preview
 
 ## 🛠️ Getting Started
 
-git clone my repo
-cd weather-greek
-npm install
-npm start
-Visit http://localhost:3000 in your browser to explore Olympus 🌩️
-
+git clone my repo <br>
+cd weather-greek <br>
+npm install <br>
+npm start <br>
+Visit http://localhost:3000 in your browser to explore Olympus 🌩️ <br>
+<br>
 “In the realm of gods, even weather obeys design.” – Weather Greek Team
